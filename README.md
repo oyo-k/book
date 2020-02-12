@@ -10,3 +10,5 @@ Mac OS XのAnaconda Navigtorの[インストール方法](https://github.com/oyo
 ## Windwosの場合
 書籍を参考にしましょう。
 ## Mac OS XX の場合
+2.2.1章の[Mac版作業フォルダの準備](https://github.com/oyo-k/book/issues/3)にアクセスしましょう。
+2.2.2章の[Jupyter Notebookの起動](https://github.com/oyo-k/book/issues/4)にアクセスしましょう。
