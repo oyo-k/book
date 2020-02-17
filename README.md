@@ -1,6 +1,9 @@
 # はじめに
 本ページは書籍「」に利用するデータやインストール方法を紹介します。
 
+# ソースコード
+本書のソースコードはJupyter Notebookの形式です。JNフォルダに章番号ごとの jpynbファイルがアップロードされています。
+
 # インストール方法
 ## Windows 10
 Windows 10 Anaconda Navigatorの[インストール方法](https://github.com/oyo-k/book/issues/1)にアクセスしましょう。
