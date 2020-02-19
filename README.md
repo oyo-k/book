@@ -17,5 +17,5 @@ Mac OS XのAnaconda Navigtorの[インストール方法](https://github.com/oyo
 2.2.1章の[Mac版作業フォルダの準備](https://github.com/oyo-k/book/issues/3)にアクセスしましょう。 <br>
 2.2.2章の[Jupyter Notebookの起動](https://github.com/oyo-k/book/issues/4)にアクセスしましょう。
 
-## Q and A
-### [実行しても何も反映されない(Markdownの場合)](https://github.com/oyo-k/book/issues/6)
+## その他の情報
+[issues](https://github.com/oyo-k/book/issues)に移動しましょう。
