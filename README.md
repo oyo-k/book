@@ -4,8 +4,14 @@
 
 サポートページで紹介するURLなどは予告なく変更される場合があります。
 
-## ソースコード
-本書のソースコードはJupyter Notebookの形式です。[JN](https://github.com/oyo-k/book/tree/master/JN)に章番号ごとの jpynbファイルがアップロードされています。
+# データ目録
+## [dataset](https://github.com/oyo-k/book/tree/master/dataset)
+本書に必要なcsvなどのデータがあります。利用方法は第8章を参考にしてください。
+
+## [sample](https://github.com/oyo-k/book/tree/master/sample)
+- 本書のサンプルプログラム
+- ファイル名は「本文用第xx章yyyymmdd改訂版.ipynb」という形式です。xxには本書の章番号、yyyymmddにはノートブックの更新日を記載します。
+
 
 ## インストール方法
 ### Windows 10
