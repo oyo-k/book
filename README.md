@@ -5,12 +5,22 @@
 サポートページで紹介するURLなどは予告なく変更される場合があります。
 
 # データ目録
-## [dataset](https://github.com/oyo-k/book/tree/master/dataset)
-本書に必要なcsvなどのデータがあります。利用方法は第8章を参考にしてください。
+## [dataset（csvなどのデータ）](https://github.com/oyo-k/book/tree/master/dataset)
+- 本書に必要なcsvなどのデータがあります。
+- 利用方法は第8章を参考にしてください。
 
-## [sample](https://github.com/oyo-k/book/tree/master/sample)
-- 本書のサンプルプログラム
+## [sample（本書のサンプルプログラム）](https://github.com/oyo-k/book/tree/master/sample)
 - ファイル名は「本文用第xx章yyyymmdd改訂版.ipynb」という形式です。xxには本書の章番号、yyyymmddにはノートブックの更新日を記載します。
+- 注意点：Jupyter Notebookのノートブックファイル（.ipynb）は、そのままエクスプローラー（またはFinder）から、クリックやダブルクリックでは開けません。Jupyter Notebookを起動させてから開いてください。
+  - 本書のスペースの関係で掲載できなかった[サンプルプログラム](https://github.com/oyo-k/book/tree/master/sample_answers)
+        - 第04章音声と翻訳.ipynb
+	        - Google 翻訳を用いた変数の応用例です。翻訳文や音声を変数に代入します。
+        - 第10章繰り返しと音.ipynb
+	        - 音楽ファイル（mp3）を繰り返す例です。繰り返し処理への理解をより深めるために利用してください。
+
+## [sample_answers（課題解答例）](https://github.com/oyo-k/book/tree/master/sample_answers)
+- 本書の課題の解答例です。
+  - ファイル名は「課題第xx章yyyymmdd改訂版.ipynb」という形式です。xxには本書の章番号、yyyymmddにはノートブックの更新日を記載します。
 
 
 ## インストール方法
