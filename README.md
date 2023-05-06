@@ -36,7 +36,7 @@
 - [MacOSでの導入準備](https://oyo-k.github.io/book/html/MacOS)
 
 ## 各種エラーの対応
-- [エラー各種](https://oyo-k.github.io/book/html/error)
+- 授業中に発生する[よくあるエラー](https://oyo-k.github.io/book/html/error)を参考。
 
 ## その他の情報
 [issues](https://github.com/oyo-k/book/issues)に移動しましょう。
