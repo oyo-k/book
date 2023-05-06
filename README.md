@@ -29,9 +29,14 @@
 	- **Step 3** Anacondaのインストール
 		-  [Windows 10](https://github.com/oyo-k/book/blob/master/documents/s1_3_Windows10_Anaconda%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95.pdf)
 		-  [Windows 11](https://github.com/oyo-k/book/blob/master/documents/Windows11_s1_3_Anaconda%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95.pdf)
-		-  [Mac]（）
 
 - Windows11の[Jupyter Notebook起動](https://github.com/oyo-k/book/blob/master/documents/Windows11_s1_4_%E7%AC%AC2%E7%AB%A0.pdf)
+
+## MacOSのサポート
+- [MacOSでの導入準備](https://oyo-k.github.io/book/html/MacOS)
+
+## 各種エラーの対応
+- [エラー各種](https://oyo-k.github.io/book/html/error)
 
 ## その他の情報
 [issues](https://github.com/oyo-k/book/issues)に移動しましょう。
