@@ -21,7 +21,7 @@
   - ファイル名は「課題第xx章yyyymmdd改訂版.ipynb」という形式です。xxには本書の章番号、yyyymmddにはノートブックの更新日を記載します。
 
 ## [documents](https://github.com/oyo-k/book/tree/master/documents)
-- インストール関連 	
+- インストール関連 （Windows関係）	
 	- **Step 1** プログラミングを始める前に基本的な用語を整理します。Windows マーク、エクスプローラー、コマンドプロンプト、半角全角キー等のキーワードを聞いて、疑問を感じる方は、以下の資料を参考にしましょう。
 		- [Windows 10](https://github.com/oyo-k/book/blob/master/documents/s1_1_Windows10%E7%94%A8%E8%AA%9E%E5%85%A5%E9%96%80.pdf)
 		- [Windows 11](https://github.com/oyo-k/book/blob/master/documents/Windows11_s1_1_%E7%94%A8%E8%AA%9E%E5%85%A5%E9%96%80.pdf)
@@ -34,6 +34,8 @@
 
 - Windows11の[Jupyter Notebook起動](https://github.com/oyo-k/book/blob/master/documents/Windows11_s1_4_%E7%AC%AC2%E7%AB%A0.pdf)
 
+- [Macのインストール方法](https://github.com/oyo-k/book/blob/master/documents/Mac_Anaconda%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95.pdf)
+	
 ## MacOSのサポート
 - [MacOSでの導入準備](https://oyo-k.github.io/book/html/MacOS)
 
